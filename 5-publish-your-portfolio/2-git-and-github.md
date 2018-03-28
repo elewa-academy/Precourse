@@ -50,7 +50,7 @@ ___
 
 ## How it all fits
 
-![](https://github.com/elewa-academy/diagrams/blob/master/git-hub/where-it-fits.png)
+![](./git-and-github.png)
 
 Git is like a really **epic save button** for your files and directories - officially Git is called a version control system.
 
@@ -95,12 +95,9 @@ Read [this article](https://jdblischak.github.io/2014-09-18-chicago/novice/git/0
 [TOP](#index)
 ___
 
-## Study Resources:
+## Resources:
 
-Our Video:
-* [Deploying Your Portfolio](https://www.youtube.com/watch?v=cElzTD_x1xw)
 
-Other Resources:
 * [Git and Github in plain English](https://blog.red-badger.com/blog/2016/11/29/gitgithub-in-plain-english).  Out standing overview.
 * Roger Dudler's [handbook to using git](http://rogerdudler.github.io/git-guide/).
 * [A good introduction video](https://www.youtube.com/watch?v=r63f51ce84A), if you're into videos. 

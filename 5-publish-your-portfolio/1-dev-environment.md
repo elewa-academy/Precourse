@@ -15,7 +15,7 @@ Terminal:
 
 Feel free to email us your favorite resources!
 
-Now that you know to run HTML/CSS in the browser, you're one step away from building your portfolio.  Move on to the [git lesson](./2-git-and-hub.md), right now!
+Now that you know to run HTML/CSS in the browser, you're one step away from building your portfolio.  Move on to the Git & GitHub.
 
 ___
 ___

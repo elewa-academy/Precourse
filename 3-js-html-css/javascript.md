@@ -33,7 +33,7 @@ JS Resources:
 
 JS Tutorials:
 * [Codeacademy](https://www.codecademy.com/en/tracks/javascript). More guidance and approachable exercises.
-* [FreeCodeCamp](https://www.freecodecamp.org/map). More challenging exercises, but less guidance.  (Skip ahead to JavaScript Basics for now, you'll get a chance to cover HTML/CSS in the next step of the precourse.)
+* [FreeCodeCamp](https://www.freecodecamp.org/map). More challenging exercises, but less guidance.  
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming), very visual.  Their exercises all provide instant feedback with in-browser visuals.
 
 

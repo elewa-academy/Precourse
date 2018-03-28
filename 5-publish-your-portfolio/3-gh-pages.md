@@ -7,24 +7,28 @@ ___
 
 Here is [a simple example](https://elewa-student.github.io) of a GitHub portfolio.  Study how this interactive portfolio was built using only GitHub repos and GH-Pages hosting. Notice especially what all of the URLs are for the demos, code, and main portfolio. We expect your portfolio to be organized the same way.
 
-Here are a few more advanced portfolios from Elium alumni: 
-* [radovandelic](https://radovandelic.github.io)
-* [gotaslick](https://gotaslick.github.io)
-* [theutmost](https://theutmost.github.io)
+Keep and eye on the [Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki) for more portfolio inspiration.
+
 ___
 ### Assignment
+
 Turn your GitHub account into a portfolio like the examples above.  It should:
 * Have a main portfolio page hosted at "username".github.io
   * You can do this easily by pushing your code to GitHub and setting your repository settings to build gh-pages from the master branch.
 * Feature your solutions to all the Basic Frontent Projects from Free Code Camp
 * Have a link to both a gh-pages demo, and the source code for each project  
-* Be shared [on the class wiki](https://github.com/elewa-academy/April-2018/wiki/Cohort-Portfolios) so everyone can get to know you! ([click here](./4-editing-github-wikis.md) for some guidance)
+* Be shared [Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki) so everyone can get to know you! ([click here](./4-editing-github-wikis.md) for some guidance)
 
 Have fun with this!  If you already have some experience programming and want to try out a new front-end library, go for it!  Impress yourself.
 
 
 ___
-### Study Resources
+### Resources
+
+
+* [Deploying Your Portfolio](https://www.youtube.com/watch?v=cElzTD_x1xw)
+)
+
 * How to build a gh-pages site:  [from thinkful](https://www.thinkful.com/learn/a-guide-to-using-github-pages/), [from GitHub](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/), [a video](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 * How to keep a presentable GitHub account: [short](https://anti-pattern.com/github-is-your-resume-now),  [long](http://blog.gainlo.co/index.php/2015/11/13/how-to-make-github-as-your-new-resume/)  
 * [Exporting Codepen pens](https://blog.codepen.io/documentation/features/exporting-pens/)
