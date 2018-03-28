@@ -1,6 +1,6 @@
 ## Front End Basics
 
-The foundational skills for web-development are HTML and CSS.  You will be able to build your first projects (and your portfolio) without any JavaScript. We think it's a good idea for you to first familiarize yourselves with HTML/CSS before moving on to JavaScript.  This will make it much easier when it comes time to learn JavaScript as you won't be trying to learn two things at once.  Believe us, this will make your life easier.
+The building blocks for web-development are HTML and CSS.  You will be able to build your first projects (and your portfolio) without any JavaScript. 
 
 To cover the basics of HTML/CSS we recommend following [FreeCodeCamp](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects) as far as the __Basic Front End Projects__.  In this series of exercises and projects you will learn some HTML, CSS, and Bootstrap as well as how to use [CodePen](https://codepen.io/hello/) to host your projects.  One of the projects is a portfolio web page that you will be able to move over to GitHub to complete your required project.
 

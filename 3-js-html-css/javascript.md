@@ -1,4 +1,4 @@
-## Javascript Fundamentals
+## JavaScript Fundamentals
 
 This is the most important part of the precourse.  Learn it! 
 
@@ -20,31 +20,28 @@ ___
 Below are a few options for learning JavaScript.  Take a look at each one and see what works best for you.  If you find another one you like better, send it our way and we'll put it up!
 
 
+A Practical Introduction:
+* [Interactive GitBook](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/)
+
+
 JS Resources:
 * [FreeCodeCamp's video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27).  Youtube videos that align with their JS curriculum. 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going). General reference for JavaScript
 * [Javascript.info](https://javascript.info). General Reference for JavaScript, DOM
-* [Guide to W3 Schools](https://www.youtube.com/watch?v=rNJBK5UGQ1A))
+* [Guide to W3 Schools](https://www.youtube.com/watch?v=rNJBK5UGQ1A)
+
 
 JS Tutorials:
 * [Codeacademy](https://www.codecademy.com/en/tracks/javascript). More guidance and approachable exercises.
 * [FreeCodeCamp](https://www.freecodecamp.org/map). More challenging exercises, but less guidance.  (Skip ahead to JavaScript Basics for now, you'll get a chance to cover HTML/CSS in the next step of the precourse.)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming), very visual.  Their exercises all provide instant feedback with in-browser visuals.
 
-JS Challenges:
-* [Codewars](https://www.codewars.com).  A site full of challenging.
-* [Coderbyte](https://coderbyte.com/).  Another site with challenges, competitions, and larger development projects. 
 
-
-JS Self-Assessment:
-* [w3schools](https://www.w3schools.com/js/js_quiz.asp)
-  
 
 
 Study Support:
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!  Don't forget to ask each other for help.
-* [Appear.in](https://appear.in/elewa-academy)
-* And do let us know if we're missing any great resources.
+* Let us know if we're missing any great resources.
 
 
 
