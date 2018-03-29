@@ -16,6 +16,7 @@ Self-Assessments:
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp)
 
+[Glitch](https://glitch.com) - We recommend using this tool to develop your portfolio.  It will help you now, and will prepare you for working in a real Text Editor.
 
 And as always, don't forget to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!
 
