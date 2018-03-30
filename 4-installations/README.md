@@ -17,7 +17,7 @@ If you have a mac or Linux machine there is nothing to install.  If you have a w
 
 5. [Node.js](https://nodejs.org/en/download/).  In the past, browsers were the only place you could run JavaScript code.  Node.js allows you to run JS outside of the browser. We will talk more about just what Node is after the first week of class. You will not need this for the precourse, but it best to come prepared.    
 
-6. Package managers.  NPM and Yarn are the most popular Node.js package managers.  NPM comes built-in with Node so there is no need to install this one separately.  Yarn has several advantages over NPM that we will talk about in class once we begin building back-end applications.  
+6. Package managers.  NPM and Yarn are the most popular Node.js package managers.  NPM comes built-in with Node so there is no need to install this one separately.  Yarn has several advantages over NPM that don't matter to you yet.  
   * [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
 
