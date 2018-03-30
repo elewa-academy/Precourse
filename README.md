@@ -1,7 +1,7 @@
 
 ## Hello Elewa Students!
 
-It's very important that you build a strong foundation in JavaScript before moving on past the Precourse. Starting unprepared will not only slow down your learning, but will impact your study partners as well.  The pressure is on!
+It's very important that you build a strong foundation in JavaScript before moving on to Fundamentals. Starting unprepared will not only slow down your learning, but will impact your study partners as well.  The pressure is on!
 
 But it's not that bad to get ready, slow and steady wins the race!  Start today and code every day, even just a bit. [Here's a great article](http://ejohn.org/blog/write-code-every-day/) about why and how to write code every day.  It's written by John Resig himself, the inventor of jQuery.  This [website](https://codehalf.com) is also a great tool for keeping yourself on track.  
 
