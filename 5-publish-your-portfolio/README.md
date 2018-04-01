@@ -12,6 +12,7 @@ Your portfolios are also going to be your first introductions to each other. Kee
 
 If you get stuck, don't forget to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!
 
+([TL;DR](https://dannguyen.github.io/github-for-portfolios/))
 
 
 ---------
