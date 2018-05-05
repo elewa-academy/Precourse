@@ -14,7 +14,7 @@
   * [Installations](./5-working-locally/0-installations.md)
   * [Dev Environment](./5-working-locally/1-dev-environment.md)
   * [Git & GitHub](./5-working-locally/2-git-and-github.md)
-  * [Starter Code]()
+  * [Starter Code](https://github.com/elewa-academy/Precourse/tree/master/5-working-locally/starter-code)
 * [6. Final Project](./6-final-project/README.md)
   * [UI Components](./6-final-project/0-ui-components.md)
   * [Separation of Concerns](./6-final-project/1-separation-of-concerns.md)

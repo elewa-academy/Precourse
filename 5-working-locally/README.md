@@ -23,12 +23,23 @@ list
 
 ## Specifications
 
-0. follow this tutorial (github api one)
-1. Commanderize your service
-2. make it global
-3. give it a full repo
-4. add this to your portfolio
-
+0. install stuff
+1. clone this precourse
+2. copy the starter code into a new folder
+3. git init in that folder
+4. create new repo on your account
+5. set the remote in the new folder
+6. push the starter code
+7. change gh-pages to build from master
+8. put a link to the live demo in the repo description
+9. edit the code on your computer
+  * using visual-studio
+  * live-server
+  * chromedev
+10. follow the instructions in the readme
+11. once you've done those things, fill in the blanks in the readme
+12. push it
+13. add the repo and live demo to your portfolio
 
 [TOP](#index)
 
