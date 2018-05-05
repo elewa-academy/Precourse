@@ -43,7 +43,7 @@ These are for you to explore on your own:
 * Integrator with many apps - we used sketchboard.io's integration for this diagram.
 * 
 
-We've created our curriculum entirely on GitHub relying mostly on these features: github pages, organizations, issues, and repos.
+We've created our curriculum entirely on GitHub relying mostly on these features: github pages, organizations, and repos.
 
 [TOP](#index)
 ___
@@ -58,7 +58,7 @@ To compare, a *save* in a text editor would record all of the words of a documen
 
 `essay-draft1.doc`, `essay-draft2.doc`, `essay-final.doc`
 
-A *save* in Git however, would record differences of files and folders AND keep a **historical record of each save**. This feature is a game changer. As an individual developer, Git enables you to review how your project grows and to easily look at or restore file states from the past. Once connected to a network, Git allows you to push your project to GitHub for sharing and collaborating with other developers.
+A *save* in Git however, would record differences of files and folders AND keep a **historical record of each save**. This feature is a game changer. As an individual developer, Git enables you to review how your project grows and to easily look at or restore file states from the past. Once connected to a network, Git allows you to push your project to GitHub for shari ng and collaborating with other developers.
 
 While Git works on your *local* machine, GitHub is a *remote* storage facility on the web for all your coding projects. This means that by learning Git, you will get to showcase your portfolio on GitHub! This is really important because almost all software development companies consider the ability to use Git as an **essential skill for a modern web developer** to have; having a portfolio will provide proof to future potential employers as to what you are capable of.
 

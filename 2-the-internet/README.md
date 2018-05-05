@@ -1,8 +1,0 @@
-# The Internet
-
-This is a tricky topic to cover, and [Shawnr](https://github.com/shawnr) has already written a great overview:
-* [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
-
-___
-___
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
