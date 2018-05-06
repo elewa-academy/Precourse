@@ -58,15 +58,6 @@ Describe the behavior of this code, behavior is very closely tied to test cases.
 Another nice way to think about this is by asking yourself:
 * "When this code has _finished_ running, what will have changed?"
 
-
-### Input Analysis
-
-What characteristics of your inputs are important for your solution? 
-
-What groupings will you have to consider when building your solution? 
-
-How did you use this information to select your test cases?
-
 ### Test Cases
 
 ```js
@@ -75,6 +66,17 @@ assert(1 == add(-2, 3));
 assert(-1 == add(2, -3));
 assert(-5 == add(-2, -3));
 ```
+
+
+### Test Case Analysis
+
+Why are these interesting test cases? 
+
+What behavior do they demonstrate?
+
+Do they capture good fringe cases?
+
+What might be some other test cases you'd want to try?
 
 
 [TOP](#index)
