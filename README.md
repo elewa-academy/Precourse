@@ -8,8 +8,7 @@ But it's not that bad to get ready, slow and steady wins the race!  Start today 
 While you're planning your study schedule, try to keep this simple rule in mind: 
 > ### 80% JavaScript. 20% everything else.
 
-It is important that you have a portfolio to work with, but don't spend too much time on it yet.  The basic portfolio you'll complete in FreeCodeCamp is enough - it's more important that you have solid JS fundamentals.  And don't worry about having a stylish portfolio just yet, one of our class projects will be rebuilding it with React components.
-
+It is important that you have a portfolio to work with, but don't spend too much time on it yet.  At this point your portfolio will be used to organize and access your projects.  GitHub repositories can be hard to navigate without a nice table of contents. Later on you'll learn how to make a killer portfolio.
 
 Take some time to meet the community [on the Elewa Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM).  Help each other with the projects, keep each other motivated, your classmates will be your greatest asset while in our class!
 

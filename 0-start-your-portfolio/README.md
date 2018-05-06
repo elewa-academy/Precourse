@@ -4,7 +4,7 @@ The portfolio is the modern diploma.  During your time with us you will be conti
 
 Your portfolio doesn't need to be anything fancy, it can be as simple as this [demo Elewa-Student portfolio](https://elewa-student.github.io).  What's important is that you have somewhere you can easily organize and access all of your work.  
 
-Your portfolios will also be how you get to know each ogher. Keep an eye on the [Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki) to see what your peers are up to!
+Your portfolios will also be how you get to know each other. Keep an eye on the [Elewa Wiki](https://github.com/elewa-academy/General-Resources/wiki) to see what your peers are up to!
 
 
 
@@ -32,6 +32,7 @@ Your portfolios will also be how you get to know each ogher. Keep an eye on the 
 0. Make a GitHub account
 1. Fork the template portfolio
 2. Rename it to [your-user-name].github.io
+3. Set a theme if you want
 
 
 [TOP](#index)

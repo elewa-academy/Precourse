@@ -9,7 +9,7 @@
   * [JS, HTML & CSS](./2-web-development/2-js-html-css.md)
   * [Web Apps](./2-web-development/3-web-apps.md)
 * [3. JavaScript](./3-javascript/README.md)
-* [4. HTML & CSS](./4-htmo-css/README.md)
+* [4. HTML & CSS](./4-html-css/README.md)
 * [5. Working Locally](./5-working-locally/README.md)
   * [Installations](./5-working-locally/0-installations.md)
   * [Dev Environment](./5-working-locally/1-dev-environment.md)

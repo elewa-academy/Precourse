@@ -29,7 +29,7 @@ To cover the basics of HTML/CSS we recommend following [FreeCodeCamp](https://ww
 1. Follow a tutorial of your choice, FreeCodeCamp is a good place to start.
 2. Build a minimum of 6 basic websites with only HTML & CSS. Make them all a little different, try to explore the possibilities and your limits. Feel free to develop them wherever you are comfortable - CodePen, Glitch, JSFiddle, ...  
 3. When you have finished each one of these sites, copy paste the code to GitHub.  Set each repository's Gh-Pages to build from master.
-4. Build a Gallery Page using Bootstrap. This site will use the grid system to feature each page you built and provide links to the repos & live demos.
+4. Build a Gallery Page using Bootstrap. This site will use the grid system to feature each page you built and provide links to the repos & live demos.  (The _Basic Frontend Project_ from FCC is a good starting point.)
 5. Link to this Pretty Things Gallery in your Portfolio.
 
 
@@ -39,7 +39,7 @@ To cover the basics of HTML/CSS we recommend following [FreeCodeCamp](https://ww
 
 ## Resources
 
-
+Gallery Demo: [Live](https://elewa-student.github.io/pretty-things/), [Repo](https://github.com/elewa-student/pretty-things/)
 
 FreeCodeCamp has a good series of exercises, but it has very few explanations of how things work.  To support you through FreeCodeCamp, we recommend these resources:
 * [Marksheet.io](https://marksheet.io) has a very clean and friendly introduction to using HTML and CSS.  
