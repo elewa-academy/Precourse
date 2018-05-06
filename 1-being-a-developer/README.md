@@ -13,7 +13,7 @@ Before you dive into the hard stuff, it's worth taking a moment to get your head
 
 ## Learning Objectives
 
-
+* What's software development really like?
 
 [TOP](#index)
 

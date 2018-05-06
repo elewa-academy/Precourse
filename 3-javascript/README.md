@@ -1,4 +1,4 @@
-## JavaScript Fundamentals
+# JavaScript
 
 This is the most important part of the precourse.  Learn it! 
 
@@ -12,10 +12,38 @@ So study hard! Dig in now, and keep at it every day.  The more you prepare, the 
 
 
 
+### Index
+* [Learning Objectives](#learning-objectives)
+* [Specifications](#specifications)
+* [Resources](#resources)
 
-___
+---
 
-### Resources
+## Learning Objectives
+
+
+* Begin exploring JavaScirpt
+* How to study and learn directly from code
+* Learn to use PythonTutor & Step-Throughs
+* Start your JS study reference
+* Find the resources that work best for you
+
+[TOP](#index)
+
+---
+
+## Specifications
+
+1. Fork this [JavaScript Template Repo](https://github.com/elewa-academy/javascript-template) - This will help you for the rest of your development career if you use it well.
+2. Familiarize yourself with [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit)
+3. Study the [sample Step-Through](https://github.com/elewa-academy/javascript-template/blob/master/studied-examples/hoisting-1.md) from the template.
+4. Embark on your JavaScript journey! Remember, learning JavaScipt is about much more than remembering the syntax.  If you diligently complete Step-Throughs you will learn far deeper and far quicker than you thought was possible.
+
+[TOP](#index)
+
+---
+
+## Resources
 
 Below are a few options for learning JavaScript.  Take a look at each one and see what works best for you.  If you find another one you like better, send it our way and we'll put it up!
 
@@ -43,37 +71,6 @@ JS Tutorials:
 Study Support:
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!  Don't forget to ask each other for help.
 * Let us know if we're missing any great resources.
-
-
-# 
-
-
-### Index
-* [Learning Objectives](#learning-objectives)
-* [Specifications](#specifications)
-* [Resources](#resources)
-
----
-
-## Learning Objectives
-
-
-
-[TOP](#index)
-
----
-
-## Specifications
-
-
-
-[TOP](#index)
-
----
-
-## Resources
-
-
 
 
 

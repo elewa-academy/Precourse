@@ -1,9 +1,8 @@
-# The Internet
+# Web Development
 
-This is a tricky topic to cover, and [Shawnr](https://github.com/shawnr) has already written a great overview:
-* [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
+What is the internet?  What is a web app?
 
-# 
+Learn all of that here.
 
 
 ### Index
@@ -15,7 +14,10 @@ This is a tricky topic to cover, and [Shawnr](https://github.com/shawnr) has alr
 
 ## Learning Objectives
 
-
+* The internet
+* Browsers
+* JS, HTML & CSS
+* Web Apps
 
 [TOP](#index)
 
@@ -23,7 +25,10 @@ This is a tricky topic to cover, and [Shawnr](https://github.com/shawnr) has alr
 
 ## Specifications
 
-
+Read through the resources provided and fill out the _Goals_ section of your portfolio:
+* Where do you think you want to specialize?
+* What do you want to build?
+* How do you want to work? Employee, Freelance, Other?
 
 [TOP](#index)
 
@@ -31,8 +36,8 @@ This is a tricky topic to cover, and [Shawnr](https://github.com/shawnr) has alr
 
 ## Resources
 
-
-
+* [Enormous Overview](https://www.youtube.com/watch?v=MLXj0hd3usk)
+* [A Coggle](https://coggle.it/diagram/Uul_jFoUPeI5AF0b/t/web-development)
 
 
 [TOP](#index)
