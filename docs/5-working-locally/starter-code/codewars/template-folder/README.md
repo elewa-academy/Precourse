@@ -7,6 +7,7 @@ Try using the words "arguments" and "return value" in your description.
 ### index
 * [Solution](#solution)
 * [Language Features](#language-features)
+* [user-name's code](#their-user-name)
 * [Notes](#notes)
 
 ___
@@ -26,7 +27,32 @@ ___
 
 What language features did you use in your solution?
 
+[TOP](#challenge-name)
 
+___
+
+## [their user name](https://www.codewars.com/users/their-user-name)
+
+```js
+// copy in their code
+```
+
+[PythonTutor link](https://goo.gl/)
+
+
+### Strategy Analysis
+
+What strategy did they use?
+
+### Language Features
+
+What language features did they use?
+
+### Comparison
+
+How does their solution compare to yours?
+
+[TOP](#challenge-name)
 
 ___
 
@@ -45,7 +71,7 @@ Lessons to apply for next time:
 
 
 
-[TOP](#string-repeat)
+[TOP](#challenge-name)
 
 ___
 ___
