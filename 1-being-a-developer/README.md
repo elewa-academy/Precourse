@@ -21,8 +21,10 @@ Before you dive into the hard stuff, it's worth taking a moment to get your head
 
 ## Specifications
 
-1. Read through the resources provided in this page of the precourse.
-2. 
+
+1. programmer's oath template
+2. Read through the resources provided in this page of the precourse.
+3. write your goals in your portfolio
 
 
 [TOP](#index)
@@ -37,7 +39,7 @@ Absolute must-reads:
    * Be bad at something, it's [good for you](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about). 
    * Study [smarter](https://youtu.be/Xt5qpbiqw2g?t=297), not harder!   
    * [Tips to the beginner developer](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer).
-   * Watch Traversy Media's [2018 Web Development overview](https://www.youtube.com/watch?v=Zftx68K-1D4) for a base understanding of the current webdev ecosystem.
+   * [What do programmers do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
   
 Other good reads:  
    * [Killer Article](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer) - long, but worth every word.  
