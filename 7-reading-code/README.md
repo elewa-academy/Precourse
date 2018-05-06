@@ -1,4 +1,4 @@
-# 
+#  Reading Lodash
 
 
 ### Index
@@ -18,7 +18,7 @@
 
 ## Specifications
 
-
+1. read a bunch of lodah's. for each one, make a new file in the /lodash directory of your final project.   Be sure to keep adding to your JavaScript repo!
 
 [TOP](#index)
 
@@ -28,6 +28,7 @@
 
 
 
+* Demo to study: [Demo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project/)
 
 
 [TOP](#index)

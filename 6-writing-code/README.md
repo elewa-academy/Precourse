@@ -1,4 +1,4 @@
-# 
+# Solving CodeWars
 
 
 ### Index
@@ -18,7 +18,7 @@
 
 ## Specifications
 
-
+1. solve a bunch of codewars. for each one, make a new folder in the /codewars directory of your final project. fill out the readme, but don't worry about the others for now.  Be sure to keep adding to your JavaScript repo!
 
 [TOP](#index)
 
@@ -28,6 +28,7 @@
 
 
 
+* Demo to study: [Demo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project/)
 
 
 [TOP](#index)
