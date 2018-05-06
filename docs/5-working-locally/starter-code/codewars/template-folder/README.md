@@ -58,6 +58,8 @@ ___
 
 ## Notes
 
+(Link to any relevant examples from your JavaScript repo)
+
 Things I learned studying this problem:
 
 
