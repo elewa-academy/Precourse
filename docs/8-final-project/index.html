@@ -475,7 +475,7 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="commanderjs">Commander.js</h1>
+                                <h1 id="final-project">Final Project</h1>
 <p>take the project from last time and give it a commander.js handler &amp; view</p>
 <h3 id="index">Index</h3>
 <ul>
@@ -485,66 +485,24 @@
 </ul>
 <hr>
 <h2 id="learning-objectives">Learning Objectives</h2>
-<p>overview</p>
-<p>list</p>
+<ul>
+<li>DOM</li>
+<li>Separation of Concerns</li>
+<li>3 layered architecture</li>
+</ul>
 <p><a href="#index">TOP</a></p>
 <hr>
 <h2 id="specifications">Specifications</h2>
 <ol>
-<li>Build an object to match <a href="https://github.com/elewa-academy/Fundamentals/blob/master/3-cleancalc/cleancalc-series/1-cleancalc.js" target="_blank">these specs</a>. </li>
-<li>Write a JS file to take command line arguments and pass them into your calculator. <ul>
-<li>Your three layers are:
-  a. UI - the terminal
-  b. Middleware - process.argsv &amp; console.log
-  c. Logic - Cleancalc Object</li>
-<li>You will write a single JS file that takes in command line args, passes them through the calc Object, and prints the result to the console.</li>
-</ul>
-</li>
-<li>Reuse your calc object in a basic browser app.  The event handlers will take the user&apos;s input, pass it through the calc object, and write the results to the DOM.  <ul>
-<li>Your three layers:
-a. UI - the browser
-b. Middleware - event listeners &amp; DOM methods
-c. Logic - Cleancalc Object</li>
-<li>Each event listener will only call the calc object once, and will only ever call the operate() method:<pre><code class="lang-js">      ...
-      <span class="hljs-comment">// get user input from the DOM</span>
-      <span class="hljs-keyword">let</span> result = cleancalc.operate(user_operation, arg1, arg2);
-      <span class="hljs-comment">// write &apos;result&apos; into the DOM</span>
-      ...
-</code></pre>
-</li>
-<li>Your project should have this structure:<ul>
-<li>index.html</li>
-<li>/public<ul>
-<li>middleware.js</li>
-<li>cleancalc.js</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Make a repo for this project and put it on your portfolio. <ul>
-<li>Gh-pages demo</li>
-<li>README <ul>
-<li>Description of app&apos;s behavior</li>
-<li>How to use the app</li>
-<li>Project structure</li>
-<li>Specs for your calc</li>
-<li>Link to a <a href="https://gist.github.com" target="_blank">Gist</a> with your finished calc object</li>
-</ul>
-</li>
-<li>Tests for the calc object</li>
-<li>Source code for every step you completed in a separate folder</li>
-</ul>
-</li>
-<li>Go to Slack and trade Gists. See what happens if you replace your cleancalc.js with someone else&apos;s.  Does it make your app crash? (This is called <em>dependency injection</em>.)</li>
+<li>build a site to feature all of your codewars and lodash&apos;s.  </li>
+<li>each codewar demo will be a live, interactive component with good clean design behind the scenes</li>
 </ol>
 <p><a href="#index">TOP</a></p>
 <hr>
 <h2 id="resources">Resources</h2>
-<p><a href="https://dom-tutorials.appspot.com/static/index.html" target="_blank">https://dom-tutorials.appspot.com/static/index.html</a></p>
-<p><a href="https://github.com/elewa-student/precourse-final-project" target="_blank">https://github.com/elewa-student/precourse-final-project</a>
-<a href="https://elewa-student.github.io/precourse-final-project/" target="_blank">https://elewa-student.github.io/precourse-final-project/</a></p>
+<ul>
+<li>Demo to study: <a href="https://github.com/elewa-student/precourse-final-project" target="_blank">Demo</a>, <a href="https://elewa-student.github.io/precourse-final-project/" target="_blank">Live</a></li>
+</ul>
 <p><a href="#index">TOP</a></p>
 <hr>
 <hr>
@@ -592,7 +550,7 @@ c. Logic - Cleancalc Object</li>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"8. Final Project","level":"1.10","depth":1,"next":{"title":"The DOM","level":"1.10.1","depth":2,"path":"8-final-project/0-the-dom.md","ref":"./8-final-project/0-the-dom.md","articles":[]},"previous":{"title":"7. Reading Code","level":"1.9","depth":1,"path":"7-reading-code/README.md","ref":"./7-reading-code/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"8-final-project/README.md","mtime":"2018-05-06T14:09:08.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-06T16:55:56.781Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"8. Final Project","level":"1.10","depth":1,"next":{"title":"The DOM","level":"1.10.1","depth":2,"path":"8-final-project/0-the-dom.md","ref":"./8-final-project/0-the-dom.md","articles":[]},"previous":{"title":"7. Reading Code","level":"1.9","depth":1,"path":"7-reading-code/README.md","ref":"./7-reading-code/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"8-final-project/README.md","mtime":"2018-05-06T17:18:42.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-06T17:18:57.026Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

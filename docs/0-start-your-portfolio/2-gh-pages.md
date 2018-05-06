@@ -26,8 +26,7 @@ github themes
 ___
 ### Resources
 
-* [Dan's Guide](http://dannguyen.github.io/github-for-portfolios/)
-
+* [Dan's Guide](http://dannguyen.github.io/github-for-portfolios/) - a little out of date
 * [Deploying Your Portfolio](https://www.youtube.com/watch?v=cElzTD_x1xw)
 * How to build a gh-pages site:  [from thinkful](https://www.thinkful.com/learn/a-guide-to-using-github-pages/), [from GitHub](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/), [a video](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 * How to keep a presentable GitHub account: [short](https://anti-pattern.com/github-is-your-resume-now),  [long](http://blog.gainlo.co/index.php/2015/11/13/how-to-make-github-as-your-new-resume/)  
