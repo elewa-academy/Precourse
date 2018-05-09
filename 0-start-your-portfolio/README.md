@@ -30,7 +30,7 @@ Your portfolios will also be how you get to know each other. Keep an eye on the 
 ## Specifications
 
 0. Make a GitHub account
-1. Fork the template portfolio
+1. Fork the [Portfolio Template](https://github.com/elewa-academy/portfolio-template)
 2. Rename it to [your-user-name].github.io
 3. Set a theme if you want
 
