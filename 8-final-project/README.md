@@ -32,6 +32,8 @@ take the project from last time and give it a commander.js handler & view
 ## Resources
 
 * Demo to study: [Demo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project/)
+* [Simple-Elevator UI](https://github.com/elewa-student/simple-elevator)
+* [this crazy project](https://github.com/colevandersWands/tedx-recommendations)
 
 
 

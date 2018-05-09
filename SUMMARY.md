@@ -2,6 +2,11 @@
 
 * [Precourse](README.md)   
 * [0. Start Your Portfolio](./0-start-your-portfolio/README.md)
+  * [GitHub Accounts](./0-starting-your-portfolio/1-github-account.md)
+  * [Forking a Repo](./0-starting-your-portfolio/2-forking-a-repo.md)
+  * [GitHub Pages](./0-starting-your-portfolio/3-gh-pages.md)
+  * [Markdown](./0-starting-your-portfolio/4-markdown.md)
+  * [GitHub Wikis](./0-starting-your-portfolio/5-github-wikis.md)
 * [1. Being A Developer](./1-being-a-developer/README.md)
 * [2. The Internet](./2-web-development/README.md)
   * [The Internet](./2-web-development/0-the-internet.md)

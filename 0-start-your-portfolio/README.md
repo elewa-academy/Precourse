@@ -41,7 +41,9 @@ Your portfolios will also be how you get to know each other. Keep an eye on the 
 
 ## Resources
 
+* [Portfolio Template](https://github.com/elewa-academy/portfolio-template)
 * Demo Portfolio: [live](https://elewa-student.github.io), [Repo](https://github.com/elewa-student/elewa-student.github.io)
+
 
 If you get stuck, don't forget to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!
 

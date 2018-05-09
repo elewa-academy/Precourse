@@ -14,7 +14,7 @@ So far you've been working on GitHub and sites like CodePen.  Now take a step in
 
 * Terminal 
 * Git
-* Chromedev
+* ChromeDev
 * Visual Studio Code
 
 [TOP](#index)
@@ -25,6 +25,7 @@ So far you've been working on GitHub and sites like CodePen.  Now take a step in
 
 1. Clone this precourse
 2. Copy paste the starter code into a new folder. This will be the base for your final project.
+3. Practice making changes!
 
 [TOP](#index)
 
@@ -33,7 +34,7 @@ So far you've been working on GitHub and sites like CodePen.  Now take a step in
 ## Resources
 
 
-
+* [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 
 [TOP](#index)

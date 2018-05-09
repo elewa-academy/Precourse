@@ -11,13 +11,11 @@ ___
 
 ## Making a GitHub Account
 
-isntructiosns for making an account, starting a un.gh.io repo, and selecting a theme
 
-choosing a user name is important. it should be easy to remember and type, but still represent the true you.
 
-___
+Choosing a user name is important, it will stay with your FOREVER. It should be easy to remember and type, but still represent the true you.
 
-## Resources
+
 
 ___
 ___

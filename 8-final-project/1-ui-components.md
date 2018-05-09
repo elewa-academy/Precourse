@@ -1,8 +1,11 @@
 ## UI Components
 
-Components are "chunks" of your website that are structurally the same, but with different information connected to them. Your project boxes are a perfect example: they have identical html/css configuration but a different title, image, and hyperlinks.
+Components are "chunks" of your website that are structurally the same, but with different information contained in them. The project features in your Pretty Things Gallery are a perfect example: they have identical html/css configuration but a different title, image, and hyperlinks.  Bootstrap is ideal for building UI component-based landing pages
 
-We will take this concept to the next level by writing a jQuery method that takes a repo name & image url as arguments and appends a new project component to the end of a "projects" div.
+
+* [Why Components?](https://www.tandemseven.com/technology/6-reasons-component-based-ui-development/)
+* [UI vs UX](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+* [Conventional Usability](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
 
 
 ___

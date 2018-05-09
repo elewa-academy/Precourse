@@ -18,7 +18,8 @@
 
 ## Specifications
 
-1. solve a bunch of codewars. for each one, make a new folder in the /codewars directory of your final project. fill out the readme, but don't worry about the others for now.  Be sure to keep adding to your JavaScript repo!
+1. Solve a bunch of CodeWars. For each one, make a new copy of the template folder in the /codewars directory of your final project. Fill out the readme, but don't worry about the others for now.  
+2. Be sure to keep taking notes in your JavaScript repo!
 
 [TOP](#index)
 
@@ -30,6 +31,14 @@
 
 * Demo to study: [Demo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project/)
 
+* [Writing Clean Code](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/clean-code.md)
+* [From English to JS](https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/english2js)
+* [Using conditional checks](https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/conditionalChecks)
+* [Simplest Passing Functions](https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/simplestPassingFuncs)
+* [Code Specs](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/specs.md)
+* [Testing 101](https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/testing-101.md) 
+* [Pseudocode](http://dondi.lmu.build/share/intro/pseudocode2js-v02.pdf)
+* [List of Strategies](https://www.une.edu.au/about-une/academic-schools/bcss/news-and-events/psychology-community-activities/over-fifty-problem-solving-strategies-explained)
 
 [TOP](#index)
 
