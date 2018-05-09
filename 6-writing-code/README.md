@@ -10,6 +10,10 @@
 
 ## Learning Objectives
 
+* Solving coding challenges
+* Reading code
+* Comparing solutions
+* Documenting code
 
 
 [TOP](#index)

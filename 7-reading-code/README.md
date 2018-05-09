@@ -10,7 +10,11 @@
 
 ## Learning Objectives
 
-
+* Reading Code
+* Inferring Strategy
+* Documenting Code
+* Tests & Behavior
+* Understanding is replicating
 
 [TOP](#index)
 
