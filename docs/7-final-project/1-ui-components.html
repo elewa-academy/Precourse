@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>7. Reading Code · GitBook</title>
+        <title>UI Components · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -61,10 +61,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../8-final-project/" />
+    <link rel="next" href="2-separation-of-concerns.html" />
     
     
-    <link rel="prev" href="../6-writing-code/" />
+    <link rel="prev" href="0-the-dom.html" />
     
 
     </head>
@@ -403,25 +403,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.9" data-path="./">
+        <li class="chapter " data-level="1.9" data-path="./">
             
                 <a href="./">
             
                     
-                    7. Reading Code
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.10" data-path="../8-final-project/">
-            
-                <a href="../8-final-project/">
-            
-                    
-                    8. Final Project
+                    7. Final Project
             
                 </a>
             
@@ -430,9 +417,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.10.1" data-path="../8-final-project/0-the-dom.html">
+        <li class="chapter " data-level="1.9.1" data-path="0-the-dom.html">
             
-                <a href="../8-final-project/0-the-dom.html">
+                <a href="0-the-dom.html">
             
                     
                     The DOM
@@ -443,9 +430,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10.2" data-path="../8-final-project/1-ui-components.html">
+        <li class="chapter active" data-level="1.9.2" data-path="1-ui-components.html">
             
-                <a href="../8-final-project/1-ui-components.html">
+                <a href="1-ui-components.html">
             
                     
                     UI Components
@@ -456,9 +443,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10.3" data-path="../8-final-project/2-separation-of-concerns.html">
+        <li class="chapter " data-level="1.9.3" data-path="2-separation-of-concerns.html">
             
-                <a href="../8-final-project/2-separation-of-concerns.html">
+                <a href="2-separation-of-concerns.html">
             
                     
                     Separation of Concerns
@@ -471,6 +458,19 @@
     
 
             </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../7-reading-code-challenge/README.md">
+            
+                <span>
+            
+                    
+                    8. Reading Code (challenge)
+            
+                </a>
+            
+
             
         </li>
     
@@ -550,7 +550,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >7. Reading Code</a>
+        <a href=".." >UI Components</a>
     </h1>
 </div>
 
@@ -565,47 +565,13 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="reading-lodash">Reading Lodash</h1>
-<h3 id="index">Index</h3>
+                                <h2 id="ui-components">UI Components</h2>
+<p>Components are &quot;chunks&quot; of your website that are structurally the same, but with different information contained in them. The project features in your Pretty Things Gallery are a perfect example: they have identical html/css configuration but a different title, image, and hyperlinks.  Bootstrap is ideal for building UI component-based landing pages</p>
 <ul>
-<li><a href="#learning-objectives">Learning Objectives</a></li>
-<li><a href="#specifications">Specifications</a></li>
-<li><a href="#resources">Resources</a></li>
+<li><a href="https://www.tandemseven.com/technology/6-reasons-component-based-ui-development/" target="_blank">Why Components?</a></li>
+<li><a href="https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/" target="_blank">UI vs UX</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html" target="_blank">Conventional Usability</a></li>
 </ul>
-<hr>
-<h2 id="learning-objectives">Learning Objectives</h2>
-<ul>
-<li>Reading Code</li>
-<li>Inferring Strategy</li>
-<li>Documenting Code</li>
-<li>Tests &amp; Behavior</li>
-<li>Understanding is replicating</li>
-</ul>
-<p><a href="#index">TOP</a></p>
-<hr>
-<h2 id="specifications">Specifications</h2>
-<ol>
-<li>Read a bunch of Lodash&apos;s. for each one, complete a new template in the /lodash directory of your final project.   </li>
-<li>Be sure to keep taking notes in your JavaScript repo!</li>
-</ol>
-<p><a href="#index">TOP</a></p>
-<hr>
-<h2 id="resources">Resources</h2>
-<ul>
-<li>Demo to study: <a href="https://github.com/elewa-student/precourse-final-project" target="_blank">Demo</a>, <a href="https://elewa-student.github.io/precourse-final-project/" target="_blank">Live</a></li>
-</ul>
-<ul>
-<li><a href="https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/navigating-codebase.md" target="_blank">Navigating Codebase</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/clean-code.md" target="_blank">Writing Clean Code</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/english2js" target="_blank">From English to JS</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/conditionalChecks" target="_blank">Using conditional checks</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/tree/master/programming-resources/simplestPassingFuncs" target="_blank">Simplest Passing Functions</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/specs.md" target="_blank">Code Specs</a></li>
-<li><a href="https://github.com/elewa-academy/General-Resources/blob/master/programming-resources/testing-101.md" target="_blank">Testing 101</a> </li>
-<li><a href="http://dondi.lmu.build/share/intro/pseudocode2js-v02.pdf" target="_blank">Pseudocode</a></li>
-<li><a href="https://www.une.edu.au/about-une/academic-schools/bcss/news-and-events/psychology-community-activities/over-fifty-problem-solving-strategies-explained" target="_blank">List of Strategies</a></li>
-</ul>
-<p><a href="#index">TOP</a></p>
 <hr>
 <hr>
 <h3 id=""><a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"></a></h3>
@@ -636,12 +602,12 @@
 
             
                 
-                <a href="../6-writing-code/" class="navigation navigation-prev " aria-label="Previous page: 6. Writing Code">
+                <a href="0-the-dom.html" class="navigation navigation-prev " aria-label="Previous page: The DOM">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../8-final-project/" class="navigation navigation-next " aria-label="Next page: 8. Final Project">
+                <a href="2-separation-of-concerns.html" class="navigation navigation-next " aria-label="Next page: Separation of Concerns">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -652,7 +618,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"7. Reading Code","level":"1.9","depth":1,"next":{"title":"8. Final Project","level":"1.10","depth":1,"path":"8-final-project/README.md","ref":"./8-final-project/README.md","articles":[{"title":"The DOM","level":"1.10.1","depth":2,"path":"8-final-project/0-the-dom.md","ref":"./8-final-project/0-the-dom.md","articles":[]},{"title":"UI Components","level":"1.10.2","depth":2,"path":"8-final-project/1-ui-components.md","ref":"./8-final-project/1-ui-components.md","articles":[]},{"title":"Separation of Concerns","level":"1.10.3","depth":2,"path":"8-final-project/2-separation-of-concerns.md","ref":"./8-final-project/2-separation-of-concerns.md","articles":[]}]},"previous":{"title":"6. Writing Code","level":"1.8","depth":1,"path":"6-writing-code/README.md","ref":"./6-writing-code/README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"7-reading-code/README.md","mtime":"2018-05-09T16:52:58.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-09T17:18:24.926Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"UI Components","level":"1.9.2","depth":2,"next":{"title":"Separation of Concerns","level":"1.9.3","depth":2,"path":"7-final-project/2-separation-of-concerns.md","ref":"./7-final-project/2-separation-of-concerns.md","articles":[]},"previous":{"title":"The DOM","level":"1.9.1","depth":2,"path":"7-final-project/0-the-dom.md","ref":"./7-final-project/0-the-dom.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["collapsible-chapters"],"pluginsConfig":{"collapsible-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"7-final-project/1-ui-components.md","mtime":"2018-05-09T12:45:17.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-11T06:28:26.530Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
