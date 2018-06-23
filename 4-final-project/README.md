@@ -33,10 +33,10 @@ use this to organize your projects from this precourse
 and to start organizing your notes
 
 0. Make a GitHub account
-1. Fork the [Portfolio Template](https://github.com/elewa-academy/portfolio-template)
-2. Rename it to [your-user-name].github.io
-3. Put a live link to your portfolio in the repo description
-4. Set a theme if you want
+1. Make a repo called [your-user-name].github.io
+2. Build your beautiful Bootstrap portfolio and move the code to this repo:
+  * Copy pasting is just fine
+  * For a challenge, try pushing the code from your computer
 
 
 [TOP](#index)
