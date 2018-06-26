@@ -61,6 +61,7 @@ The Programmer's Oath:
 
 Absolute must-reads:  
 * [Be reasonable with yourself](http://norvig.com/21-days.html) - Programming takes work, then more work, followed by a lot of practice.  
+* [What is programming?](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/what-is-programming/)
 * Be bad at something, it's [good for you](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about). 
 * Study [smarter](https://youtu.be/Xt5qpbiqw2g?t=297), not harder!   
 * [Tips to the beginner developer](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer).

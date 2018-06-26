@@ -28,7 +28,10 @@ While you're building your projects, don't just focus on the finished product.  
 
 0. Take good notes. Be sure to focus on vocabulary!
 1. Follow a tutorial of your choice.
-2. Build a 5+ basic websites with only HTML & CSS (on Glitch). Make each one a little different, try to explore the possibilities and your limits.
+2. Build a 5+ basic websites with only HTML & CSS
+  * Host them on Glitch. 
+  * Make each one small and different.  At the beginning you will learn more from a variety of smaller projects than from one large project.
+  * Make lots of mistakes. Explore your potential and your limits!
 
 
 
