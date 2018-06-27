@@ -16,7 +16,7 @@ Terminal:
 * [Rithmschool](https://www.rithmschool.com/courses/terminal)
 
 
-Resources:
+Additional Resources:
 * [Launch School's Command Line](https://launchschool.com/books/command_line). Resource for learning about the command line and the terminal.
 * [Launch School's Git and Github](https://launchschool.com/books/git/). Resource for learning about git and github.
 * [Jlord's Git-It](https://github.com/jlord/git-it-electron). This is a more interactive resource for learning Git.

@@ -6,7 +6,7 @@ Finished applications are the final product of a long and detailed planning proc
 
 Even once this is finished and each developer has their tasks assigned to them, it's still not time to code yet!  Great developers will take the time to make sure that they fully understand the problem they have been assigned, have a solution strategy, and have tests in place before they write a single line of code.  
 
-You may not be ready to launch your first app, but it's never too late to start good habits.  As you work your way through FreeCodeCamp (or other on-line tutorial), write your first web sites, and study other people's work, don't just dive right into the code.  Take a minute to understand the challenge, to set your personal learning objectives, and to connect what you're about to do with things you've already learned.
+You may not be ready to launch your first app, but it's never too late to start good habits.  As you work your way through JavaScript, write your first web sites, and study other people's work, don't just dive right into writing code.  Take a minute to understand what you want your code to do, to set your personal learning objectives, and to connect what you're about to do with things you've already learned.
 
 Remember, you're here to learn not to perform! 
 

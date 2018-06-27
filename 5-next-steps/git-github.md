@@ -2,7 +2,6 @@
 
 ### Index
 * [Why Git and GitHub](#why-git-and-github)
-* [What is Git](#what-is-git)
 * [what is GitHub](#what-is-github)
 * [How it all fits](#how-it-all-fits)
 * [Git clients](#git-clients)
@@ -17,14 +16,6 @@
 
 In the colaborative world of web development, a project (or your piece of one) isn't finished until someone else can understand it - be it a co-worker, collaborator, yourself in a month, or some rando. GIT and Github allows you to protect your code against silly mistakes, organize, and document your code so others know how to use it and what to use it for.
 
-[TOP](#index)
--------
-## What is GIT 
-* Git is a command-line application that allows you to travel through time.  Every commit saves a complete image of your directory structure at the time of commiting (actually your staged directory structure, but whatever for now). 
-* Git allows you to create alternative universes.  With branches you can save two copies of the same directory that differ by a single file/method/bug/...  This is very practical for testing experimental features, fixing bugs, or sharing work across a group.
-* Git allows you to commune with parallel dimensions.  'Pull' and 'push' allows your local git commit tree to synchronize with a git tree located anywhere on the internet.  This is how you will use GitHub and how multiple people are able to collaborate on the same codebase.
-
-Git has more tricks up it's sleeves, but these 3 will carry farther than you can see without awakening your third eye.
 
 [TOP](#index)
 ___
@@ -81,11 +72,11 @@ Git can be tricky to use directly from terminal when you are first learning.  Fo
 ___
 
 ## Learning Outcomes:
-By the end of this step in the precourse you should be able to:
+By the end of this step in the Precourse you should be able to:
 
 * Describe the differences between Git, Github and a text editor in terms of what they save and their record keeping
 * Describe why Git is useful for an individual developer and a team of developers
-* Push, pull, branch, add, commit.  These commands will be necessary to build your portfolio.
+* Push, pull, branch, add, commit.  These commands will be necessary to complete the next round of projects.
 
 [TOP](#index)
 ___   
@@ -97,14 +88,9 @@ ___
 
 ## Resources:
 
-
+* [Launch School's Git and Github](https://launchschool.com/books/git/). Resource for learning about git and github.
 * [Git and Github in plain English](https://blog.red-badger.com/blog/2016/11/29/gitgithub-in-plain-english).  Out standing overview.
-* Roger Dudler's [handbook to using git](http://rogerdudler.github.io/git-guide/).
-* [A good introduction video](https://www.youtube.com/watch?v=r63f51ce84A), if you're into videos. 
-* [Traversy Media crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc), another video intro.
-* [The best place to practice git](http://learngitbranching.js.org/), great visualizations.
-* [Git CLI game](https://www.git-game.com).  A git tutorial run from your terminal.
-* If you REALLY want to know [how git works](https://www.youtube.com/watch?v=1ffBJ4sVUb4&list=TLj1nt5nzukA8), watch this video.
+
 
 ___
 ___

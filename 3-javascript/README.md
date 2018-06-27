@@ -44,6 +44,7 @@ So study hard! Dig in now, and keep at it every day.  The more you prepare, the 
 1. Set aside a chapter in your notes for JavaScript language features:    
   * You'll want to build your own 'vocabulary list' to keep track of the built-in JS language features as you come across them.  One of the most common difficulties in the early stages of programming is just remembering all of the language features available!  
   * Having a complete list of everything you know, written in your own words, will be invaluable as you try to start to solve programming challenges on your own.
+  * Start building a collection of clear code samples & sketches that have helped you understand key concepts, we recommend trying to store them in a directory of Markdown files.   
 2. Familiarize yourself with the [JS Tool Kit](https://github.com/elewa-academy/js-tool-kit), especially: 
   * [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit)
   * [Parsonizer](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md#parsonizer)
