@@ -23,6 +23,7 @@
   * [Installations](./5-next-steps/installations.md)
   * [Git](./5-next-steps/git.md)
   * [Git & GitHub](./5-next-steps/git-github.md)
+* [Next: Fundamentals](https://elewa-academy.github.io/Fundamentals/)
 * [Wiki](https://github.com/elewa-academy/General-Resources/wiki)
 * [Repo](https://github.com/elewa-academy/Precourse/tree/master)
 * [Home](https://elewa-academy.github.io)

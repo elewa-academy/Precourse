@@ -1,11 +1,18 @@
 # Next Steps
 
-Congratulations on finishing the Precourse project!  The next step is to familiarize yourself with the local development environment
+Congratulations on finishing the Precourse project!  
+
+Before moving on in the curriculum, take some time to familiarize yourself with your local development environment.  So far you've made all of your projects in online development environments like Glitch or CodePen.  To take your development to the next level you will need to learn to develop and test your code directly on your computer using:
+* Visual Studio Code
+* Terminal
+* Chrome 
+* Git
+
+
 
 ### Index
 * [Learning Objectives](#learning-objectives)
-* [Specifications](#specifications)
-* [Resources](#resources)  
+* [Specifications](#specifications) 
 
 ---
 
