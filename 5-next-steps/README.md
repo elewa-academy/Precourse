@@ -1,9 +1,6 @@
 # Next Steps
 
-Wow. You finished the precourse project.  Now it's time to get ready for the real deal.
-
-The next big leap is working locally (on your computer, not just web-based editors). 
-
+Congratulations on finishing the Precourse project!  The next step is to familiarize yourself with the local development environment
 
 ### Index
 * [Learning Objectives](#learning-objectives)
@@ -65,11 +62,6 @@ _Working Locally:_
 * As a challenge, try writing and editing your notes from command line using [Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/). The work-flow is pretty smooth and you'll be forcing yourself to practice using the command line on a daily basis.  (Nano comes pre-installed on Linux & Macs).
 
 [TOP](#index)
-
----
-
-## Resources
-
 
 ___
 ___
