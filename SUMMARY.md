@@ -10,7 +10,7 @@
 * [2. HTML & CSS](./2-html-css/README.md)
 * [3. JavaScript](./3-javascript/README.md)
   * [Pre-Read](./3-javascript/0-pre-read.md)
-  * [Variables & Types](https://github.com/elewa-academy/variables-and-types)
+  * [Variables & Types](https://github.com/elewa-academy/variables-&-types)
   * [Scope & Control Flow]()
   * [Context & Chunking]()
 * [4. Final Project](./4-final-project/README.md)
