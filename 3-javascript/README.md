@@ -67,6 +67,7 @@ What is JS?
 * ["Preface" from __You Don't Know JS__](https://github.com/getify/You-Dont-Know-JS/blob/master/preface.md)
 * ["Intro" from __JavaScript.info__](https://javascript.info/intro)
 * ["What is JS" from __Practical JavaScirpt__](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/what-is-javascript/)
+* ["What is JS" from __MDN__](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
 Great online Tutorials:
