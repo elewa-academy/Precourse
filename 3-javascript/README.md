@@ -49,9 +49,14 @@ So study hard! Dig in now, and keep at it every day.  The more you prepare, the 
   * [PythonTutor](http://www.pythontutor.com/javascript.html#mode=edit)
   * [Parsonizer](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md#parsonizer)
   * [Flow-chart generator](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md#bogdan-lyashenko).
-3. Work your way through the three sub-chapters in this gitbook, __variables, scope & context__:  
-  * In these chapters you will learn to build a strong model of how JavaScripte 
-  * These pages will complement whatever tutorial you choose to follow by providing you with several powerful study techniques to visualize JavaScript runtime behavior.  
+3. Study [JS Fundamentals](https://github.com/elewa-academy/js-fundamentals) through 4.iii:
+  * The JS Notional Machine
+  * Deliberate Practice
+  * Visualize Behavior
+  * Self Assessment
+  * JS: Variables & Types
+  * JS: Scope & Control Flow
+  * JS: Scope & Context
 4. Practice whatever keeps you motivated. If you find one tutorial too easy, hard, or boring, move on!  What's important is that you can predict how JS will execute simple programs, not the tutorials you complete.
 5. Stay involved!  Studying a little bit (even 15 minutes) every day and staying active on Slack will make you life a lot easier.
 
@@ -84,17 +89,6 @@ References from the web
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going). General reference for JavaScript, not super beginner-friendly.
 * [Learn-JS](http://www.learn-js.org)
 
-Resources from us:
-* [Effective Learning](https://github.com/elewa-academy/effective-learning)
-* [JS Notional Machine](https://github.com/elewa-academy/js-notional-machine)
-* [JS Tool Kit](https://github.com/elewa-academy/js-tool-kit)
-* [Guide to W3Schools](https://www.youtube.com/watch?v=rNJBK5UGQ1A)
-* [Mapping Conditional Checks](https://github.com/elewa-academy/mapping-conditional-checks/settings)
-* [From English to JS](https://github.com/elewa-academy/english-to-js)
-* [Code Specs](https://github.com/elewa-academy/code-specs)
-* [Testing 101](https://github.com/elewa-academy/testing-101)
-* [Abstractions](https://github.com/elewa-academy/abstractions)
-* [Programming Paradigms](https://github.com/elewa-academy/programming-paradigms)
 
 
 
